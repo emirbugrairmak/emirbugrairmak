@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/qa-banner.svg" alt="QA Banner" width="100%" />
+</p>
+
 # Hi, I'm Emir Buğra Irmak
 
 **QA Intern / Junior QA Engineer** based in Izmir, Turkey.
