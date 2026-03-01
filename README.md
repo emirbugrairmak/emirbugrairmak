@@ -1,25 +1,54 @@
-![MasterHead](https://developer.android.com/static/images/social/android-developers.png)
+# Hi, I'm Emir Buğra Irmak
 
+**QA Intern / Junior QA Engineer**  
+İzmir, Türkiye
 
+I am a Computer Engineering student focused on Software Quality Assurance. I build hands-on QA portfolio projects around risk-based manual testing, API/DB validation, and defect reporting with industry tools.
 
-<h1 align="center">Hi 👋, I'm Emir Buğra Irmak</h1>
-<h3 align="center">A passionate mobile developer student from Turkey.</h3>
+## Career Focus
+- QA Intern / Junior QA Engineer roles
+- Risk-based manual testing and structured test design
+- API and database validation
+- Building strong test automation fundamentals
 
-- 🔭 I’m currently working on **Android**
+## QA Skills
+- **Testing:** Manual Testing, Risk-Based Testing, Test Case Design, Bug Reporting, Smoke, Sanity, Regression, Exploratory, Static Testing
+- **Black-box Techniques:** Equivalence Partitioning (EP), Boundary Value Analysis (BVA), Decision Table, State Transition, Use Case Testing
+- **API/DB:** Postman, request/response validation, negative scenario testing, PostgreSQL, SQL (joins, group by, having, CRUD, transactions)
+- **Tools & Workflow:** Jira, TestRail, Git/GitHub, Agile/Scrum, Swagger/OpenAPI
+- **Programming:** Python (intermediate), Kotlin (intermediate), Java (basic)
 
-- 🌱 I’m currently learning **Android Development**
+## Featured QA Projects
+- **Manual QA Testing Portfolio Project (Risk-Based)**
+  - E-commerce demo (Sauce Demo): 48 total test cases (Smoke 8, Sanity 9, Regression 31)
+  - Produced test plan, P1-P4 risk matrix, TestRail execution reports, and Jira defect reports
+  - Repo: [Manual-QA-Testing-Portfolio-Project-Risk-Based-](https://github.com/emirbugrairmak/Manual-QA-Testing-Portfolio-Project-Risk-Based-)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emir-buğra-irmak-346018248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emir-buğra-irmak-346018248" height="30" width="40" /></a>
-<a href="https://instagram.com/emirs.bugraax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emirs.bugraax" height="30" width="40" /></a>
-</p>
+- **SQL Manual Testing - DVD Rental System (PostgreSQL)**
+  - Validated 10 business requirements with SQL
+  - Reported 6 defects related to data integrity and business rules
+  - Executed DB-level smoke/sanity/regression runs with TestRail reporting
+  - Repo: [sql-manual-testing-dvd-rental](https://github.com/emirbugrairmak/sql-manual-testing-dvd-rental)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Instagram Manual Test (Signup/Login)**
+  - Created 25 test cases + 4 exploratory findings
+  - Applied ISTQB-aligned techniques (EP/BVA, decision table, state transition, use case)
+  - Repo: [Instagram-Manuel-Test](https://github.com/emirbugrairmak/Instagram-Manuel-Test)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirbugrairmak&show_icons=true&locale=en&layout=compact" alt="emirbugrairmak" /></p>
+## Education
+- **Pamukkale University** - B.Sc. Computer Engineering (2021 - Expected June 2026)
+- GPA: **3.13 / 4.00**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emirbugrairmak&show_icons=true&locale=en" alt="emirbugrairmak" /></p>
+## Certificates
+- Software Test Specialist Training (Udemy, Feb 2026)
+- EF SET English Certificate: 52/100 (B2 Upper Intermediate, Jan 2026)
+- Google Project Management Professional Certificate (Coursera, Jul 2025)
+- Version Control: Git & GitHub (BTK Akademi, Apr 2024)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emirbugrairmak&" alt="emirbugrairmak" /></p>
+## Connect
+- LinkedIn: [emir-bugra-irmak-346018248](https://www.linkedin.com/in/emir-bugra-irmak-346018248)
+- GitHub: [emirbugrairmak](https://github.com/emirbugrairmak)
+- Email: emirbugrairmak1905@gmail.com
+
+---
+I am actively improving my QA depth through real-world portfolio work and consistent testing practice.
