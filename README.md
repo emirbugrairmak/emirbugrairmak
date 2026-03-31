@@ -21,10 +21,15 @@ I focus on building reliable software through risk-based manual testing, API/DB 
   - Reported **6 defects** on data integrity and rule violations
   - Repo: [sql-manual-testing-dvd-rental](https://github.com/emirbugrairmak/sql-manual-testing-dvd-rental)
 
-- **Instagram Manual Test (Signup/Login)**
-  - Produced **25 test cases** and **4 exploratory findings**
-  - Applied ISTQB-aligned black-box techniques
-  - Repo: [Instagram-Manuel-Test](https://github.com/emirbugrairmak/Instagram-Manuel-Test)
+- **Android Appointment App - Manual QA**
+  - Executed **46 test cases** across core Android appointment flows including booking, profile, messaging, and notifications
+  - Reported **9 defects** and documented blocked areas related to offline behavior, profile photo update, navigation, and share flow
+  - Repo: [android-appointment-app-qa](https://github.com/emirbugrairmak/android-appointment-app-qa)
+
+- **User Registration Flow - Data-Driven API Testing**
+  - Built a **data-driven Postman collection** for login, create, update, and delete flows using CSV-based test data
+  - Used **QA/Staging environments**, token and `userId` chaining, and documented the run with **5 TestRail test cases**
+  - Repo: [user-registration-flow-data-driven](https://github.com/emirbugrairmak/user-registration-flow-data-driven)
 
 ## Toolbox
 `Manual Testing` `Postman` `PostgreSQL` `SQL` `Jira` `TestRail` `Git/GitHub` `Agile/Scrum` `Swagger/OpenAPI`
