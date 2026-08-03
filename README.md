@@ -8,6 +8,7 @@ I focus on building reliable software through risk-based manual testing, API/DB 
 - Design and execute structured manual tests (Smoke, Sanity, Regression, Exploratory)
 - Apply black-box techniques (EP, BVA, Decision Table, State Transition, Use Case)
 - Build UI automation tests with Playwright, TypeScript, and Page Object Model
+- Design and run API performance tests with Apache JMeter, dynamic correlation, data-driven users, and CI quality gates
 - Validate APIs with Postman and business rules with SQL (PostgreSQL)
 - Document findings with Jira and TestRail in an Agile workflow
 
@@ -17,6 +18,13 @@ I focus on building reliable software through risk-based manual testing, API/DB 
   - Automated **12 UI scenarios** across Chromium, Firefox, and WebKit with **36 passed test executions**
   - Used Page Object Model, documented requirements, acceptance criteria, and Playwright HTML reporting
   - Repo: [practice-softwaretesting-playwright-ui](https://github.com/emirbugrairmak/practice-softwaretesting-playwright-ui)
+
+- **OWASP Juice Shop Performance Testing**
+  - Built an **Apache JMeter performance-testing project** for an authenticated shopping-basket API journey
+  - Implemented JWT and entity correlation, dynamic product selection, assertions, and **10 isolated CSV-driven users**
+  - Measured **3,386 API samples with 0 failures**, **8.85 requests/s**, **479 completed flows**, and **APDEX 1.000** in the documented local workload
+  - Added a deterministic **GitHub Actions** validation workflow with a Python JTL quality gate and HTML report artifacts
+  - Repo: [jmeter-juice-shop-performance-testing](https://github.com/emirbugrairmak/jmeter-juice-shop-performance-testing)
 
 - **Manual QA Testing Portfolio (Risk-Based)**
   - Built and executed **48 test cases** (Smoke 8, Sanity 9, Regression 31) on Sauce Demo
@@ -39,7 +47,7 @@ I focus on building reliable software through risk-based manual testing, API/DB 
   - Repo: [android-appointment-app-qa](https://github.com/emirbugrairmak/android-appointment-app-qa)
 
 ## Toolbox
-`Manual Testing` `Playwright` `TypeScript` `JavaScript` `Page Object Model` `Postman` `PostgreSQL` `SQL` `Jira` `TestRail` `Git/GitHub` `Agile/Scrum` `Swagger/OpenAPI`
+`Manual Testing` `Performance Testing` `Apache JMeter` `Playwright` `TypeScript` `JavaScript` `Page Object Model` `Postman` `PostgreSQL` `SQL` `Docker` `Python` `Bash` `GitHub Actions` `BlazeMeter` `Jira` `TestRail` `Git/GitHub` `Agile/Scrum` `Swagger/OpenAPI`
 
 ## Currently Learning
 - Improving test design depth and defect analysis quality
