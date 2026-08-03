@@ -9,7 +9,8 @@ I focus on building reliable software through risk-based manual testing, API/DB 
 - Apply black-box techniques (EP, BVA, Decision Table, State Transition, Use Case)
 - Build UI automation tests with Playwright, TypeScript, and Page Object Model
 - Design and run API performance tests with Apache JMeter, dynamic correlation, data-driven users, and CI quality gates
-- Validate APIs with Postman and business rules with SQL (PostgreSQL)
+- Build automated API test suites with Postman, JavaScript, data-driven flows, Postman CLI, and GitHub Actions
+- Validate business rules and data integrity with SQL (PostgreSQL)
 - Document findings with Jira and TestRail in an Agile workflow
 
 ## Featured QA Work
@@ -26,15 +27,16 @@ I focus on building reliable software through risk-based manual testing, API/DB 
   - Added a deterministic **GitHub Actions** validation workflow with a Python JTL quality gate and HTML report artifacts
   - Repo: [jmeter-juice-shop-performance-testing](https://github.com/emirbugrairmak/jmeter-juice-shop-performance-testing)
 
+- **Restful Booker Postman API Tests**
+  - Built an automated **Postman API test suite** covering an authenticated booking lifecycle with GET, POST, PUT, PATCH, and DELETE requests
+  - Implemented token and booking ID chaining, positive and negative scenarios, response-time checks, and data-driven execution with **3 JSON datasets**
+  - Integrated **Postman CLI with GitHub Actions** and uploaded HTML test reports as workflow artifacts
+  - Repo: [restful-booker-postman-tests](https://github.com/emirbugrairmak/restful-booker-postman-tests)
+
 - **Manual QA Testing Portfolio (Risk-Based)**
   - Built and executed **48 test cases** (Smoke 8, Sanity 9, Regression 31) on Sauce Demo
   - Created risk matrix, test plan, and defect reports in Jira
   - Repo: [Manual-QA-Testing-Portfolio-Project-Risk-Based-](https://github.com/emirbugrairmak/Manual-QA-Testing-Portfolio-Project-Risk-Based-)
-
-- **User Registration Flow - Data-Driven API Testing**
-  - Built a **data-driven Postman collection** for login, create, update, and delete flows using CSV-based test data
-  - Used **QA/Staging environments**, token and `userId` chaining, and documented the run with **5 TestRail test cases**
-  - Repo: [user-registration-flow-data-driven](https://github.com/emirbugrairmak/user-registration-flow-data-driven)
 
 - **SQL Manual Testing - DVD Rental System**
   - Validated **10 business requirements** with SQL queries
