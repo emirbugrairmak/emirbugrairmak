@@ -17,4 +17,4 @@ Playwright · TypeScript · JavaScript · Postman / Postman CLI · Apache JMeter
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/emir-bugra-irmak-346018248) · [GitHub](https://github.com/emirbugrairmak) · emirbugrairmak1905@gmail.com
+[LinkedIn](https://www.linkedin.com/in/emir-bu%C4%9Fra-irmak-346018248) · [GitHub](https://github.com/emirbugrairmak) · emirbugrairmak1905@gmail.com
